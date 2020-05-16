@@ -7,6 +7,8 @@
 
 A custom hook for creating accessible expand/collapse components in React. Animates the height using CSS transitions from `0` to `auto`.
 
+Here's a new addition!
+
 ## Features
 
 - Handles the height of animations of your elements, `auto` included!
